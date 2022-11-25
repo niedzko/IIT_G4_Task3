@@ -63,6 +63,10 @@ p {
 	height: auto;
 }
 
+#mainArea {
+	margin-top:20px;
+}
+
 #screenshot {
 	width: 30%;
 	float: left;
@@ -73,7 +77,26 @@ p {
 	width: 100%;
 	height: auto;
 }
+#screenshot1 {
+	width: 30%;
+	float: right;
+	margin-right: 30px;
+}
 
+#screenshot1 img {
+	width: 120%;
+	height: auto;
+}
+
+#pagediagram {
+	width: 120%;
+	float: left;
+
+}
+#pagediagram img {
+	width: 80%;
+	height: auto;
+}
 
 #name {
 	float: left;
